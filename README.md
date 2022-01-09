@@ -6,4 +6,4 @@ https://github.com/cyborg5/IRLib2
 Circuit diagram and how to send IR codes with Arduino over at Adafruit:
 https://learn.adafruit.com/using-an-infrared-library/sending-ir-codes
 
-Huge thanks to github.com/stooged for a simplified and auto-loading index.html
+Huge thanks to https://github.com/stooged for a simplified and auto-loading index.html to go with https://github.com/stooged/PS4-Server-900u
