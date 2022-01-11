@@ -8,7 +8,7 @@ void setup()
 void loop()
 {
     delay(20000);
-	Keyboard.press(KEY_UP_ARROW);
+    Keyboard.press(KEY_UP_ARROW);
     delay(25);
     Keyboard.release(KEY_UP_ARROW);
     delay(125);
